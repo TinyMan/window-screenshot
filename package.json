@@ -1,0 +1,26 @@
+{
+  "name": "window-screenshot",
+  "version": "1.0.0",
+  "description": "Node.Js package using .NET and Edge.js to take screenshot of a given window",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TinyMan/window-screenshot.git"
+  },
+  "keywords": [
+    "window",
+    "screenshot"
+  ],
+  "author": "TinyMan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TinyMan/window-screenshot/issues"
+  },
+  "homepage": "https://github.com/TinyMan/window-screenshot#readme",
+  "dependencies": {
+    "edge": "^6.5.1"
+  }
+}

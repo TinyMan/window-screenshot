@@ -28,6 +28,9 @@ screenshot(0, // 0 is for active window
     });
  ```
  
+# Electron
+
+Check out [Tomas Hubelbauer's fork](https://github.com/TomasHubelbauer/window-screenshot).
  
 # Todo
  
